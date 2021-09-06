@@ -1,5 +1,3 @@
 # Log format
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ZCZC WEEK# MINUTES LogCode Description
-
-Z00 W00 Working on Quiz OS Week00_6_September_2021
