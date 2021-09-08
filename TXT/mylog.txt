@@ -1,5 +1,5 @@
-# Log format
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+# Log format
 # ZCZC WEEK# LogCode MINUTES Description
 
 ZCZC W01 L86 05 House chore: Laundry
