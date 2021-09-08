@@ -2,7 +2,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ZCZC WEEK# LogCode MINUTES Description
 
-ZCZC W01 L99 20 Breakfast
 ZCZC W01 L86 05 House chore: Laundry
 ZCZC W01 L04 05 Github Pages related: Adding some links
 ZCZC W01 L73 90 Gaming
