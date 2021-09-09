@@ -5,6 +5,5 @@
 ZCZC W01 L86 05 House chore: Laundry
 ZCZC W01 L04 05 Github Pages related: Adding some links
 ZCZC W01 L73 90 Gaming
-ZCZC W01 L09 05 Assignment in general: Download Virtualbox
 ZCZC W01 L84 120 Sleep
 ZCZC W01 L11 15 Assignment #1: VirtualBox Guest Preparation
