@@ -16,3 +16,5 @@ ZCZC W01 L63 90 Fixing hardware problem: Laptop cannot make new folder (Not fixe
 ZCZC W01 L81 60 Listening to music
 ZCZC W01 L86 05 House chore: Laundry
 ZCZC W01 L70 30 Studying for other course
+ZCZC W01 L84 30 Relax
+ZCZC W01 L81 30 Listening to music
