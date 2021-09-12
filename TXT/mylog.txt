@@ -19,3 +19,11 @@ ZCZC W01 L70 30 Studying for other course
 ZCZC W01 L84 30 Relax
 ZCZC W01 L81 30 Listening to music
 ZCZC W01 L02 100 Zoom meeting
+ZCZC W01 L13 30 Assignment #3
+ZCZC W01 L14 30 Assignment #4
+ZCZC W01 L15 30 Assignemnt #5
+ZCZC W01 L16 30 Assignment #6
+ZCZC W01 L17 30 Assignment #7
+ZCZC W01 L84 90 Sleep
+ZCZC W01 L83 05 Pet feeding
+ZCZC W01 L73 90 Gaming: DOTA 2 and Valorant
