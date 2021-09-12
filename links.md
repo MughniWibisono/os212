@@ -1,4 +1,6 @@
+---
 permalink: /LINKS/
+---
 
 # LINKS # <br>
 1. **[Operating System in general](https://en.wikipedia.org/wiki/Operating_system)**<br>
