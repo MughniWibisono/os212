@@ -25,10 +25,10 @@ navbarlinks:
   link:      "/ABOUT/"
 - navbar:    "GitHub Page"
   link:      "https://template.vlsm.org/"
-title:       "GitHub Page Template"
+title:       "Mughni's Github Page"
 lang:        "en-US"
-author:      "J. Walker"
-address:     "Box 7, Mawitaan, Bangalla."
+author:      "A. Mughni Wibisono"
+address:     "South Jakarta"
 sitemap:     "true"
 markdown:    "kramdown"
 defaults:
@@ -45,6 +45,6 @@ google_analytics: "UA-89852122-15"
 
 urlweb:           "https://template.vlsm.org/"
 urlcontact:       "TBA"
-urlgithub:        "https://github.com/ThisIsHowMeDoIt/template"
+urlgithub:        "https://github.com/MughniWibisono"
 
 
