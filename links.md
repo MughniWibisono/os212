@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-# LINKS  <br>
+# OPERATING SYSTEM LEARNING LINKS  <br>
 1. **[Operating System](https://www.guru99.com/operating-system-tutorial.html)**<br>
    > You can find anything in here, from the history of operating system to the advantages of operating system. Basically it's like wikipedia!<br>
 2. **[Understanding Operating System](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)**<br>
