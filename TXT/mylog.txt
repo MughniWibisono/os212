@@ -27,3 +27,5 @@ ZCZC W01 L17 30 Assignment #7
 ZCZC W01 L84 90 Sleep
 ZCZC W01 L83 05 Pet feeding
 ZCZC W01 L73 90 Gaming: DOTA 2 and Valorant
+ZCZC W01 L70 30 Studying for other course
+ZCZC W01 L60 30 Listening to music
