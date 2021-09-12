@@ -33,3 +33,6 @@ ZCZC W01 L16 30 Assignment #6: Making my page better
 ZCZC W01 L18 30 Assignment #8
 ZCZC W01 L19 30 Assignment #9
 ZCZC W01 L73 120 Gaming: DOTA 2 and Valorant
+ZCZC W01 L70 60 Studying for other course
+ZCZC W01 L16 60 Assignment #6: Making my page better again
+ZCZC W01 L84 120 Sleep
