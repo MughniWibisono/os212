@@ -4,8 +4,8 @@ permalink: /ABOUT/
 
 # About
 
-This is a GitHub Page template on GitHub.
-Fill free to clone/fork/hijack/whatever it!
+Hi! I'm Mughni Wibisono-, currently I study at the University of Indonesia and major in computer science.
+This is my github page, I know it's not much but feel free to explore !
 
 <br>
 # More Information
@@ -19,7 +19,7 @@ Fill free to clone/fork/hijack/whatever it!
 </li><li>
 {% for ii in site.navbarlinks %}
   {% if ii.navbar == "GitHub" %}
-    <a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a>
+    <a href="{{ https://github.com/MughniWibisono/os212 }}">{{ ii.navbar }}</a>
   {% endif %}
 {% endfor %}
 </li></ul><br>
