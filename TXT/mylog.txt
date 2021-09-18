@@ -47,3 +47,7 @@ ZCZC W02 L70 120 Studying for other course
 ZCZC W02 L73 90 Gaming: DOTA 2 and Valorant
 ZCZC W02 L70 10 Pre-test Startprob
 ZCZC W02 L84 120 Sleep
+ZCZC W02 L11 90 Assignment 1
+ZCZC W02 L13 120 Assignment 3: First video
+ZCZC W02 L84 60 Relax
+ZCZC W02 L13 120 Assignment 3: Second video
