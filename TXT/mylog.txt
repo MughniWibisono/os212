@@ -51,3 +51,8 @@ ZCZC W02 L11 90 Assignment 1
 ZCZC W02 L13 120 Assignment 3: First video
 ZCZC W02 L84 60 Relax
 ZCZC W02 L13 120 Assignment 3: Second video
+ZCZC W02 L14 10 Assignment 4
+ZCZC W02 L15 10 Assignment 5
+ZCZC W02 L16 10 Assignment 6
+ZCZC W02 L17 10 Assignment 7
+ZCZC W02 L18 10 Assignment 8
