@@ -1,4 +1,4 @@
-# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 # Log format
 # ZCZC WEEK# LogCode MINUTES Description
 
@@ -56,3 +56,10 @@ ZCZC W02 L15 10 Assignment 5
 ZCZC W02 L16 10 Assignment 6
 ZCZC W02 L17 10 Assignment 7
 ZCZC W02 L18 10 Assignment 8
+ZCZC W02 L19 10 Assignment 9
+ZCZC W02 L20 10 Assignment 10
+ZCZC W02 L09 10 Assignment 11
+ZCZC W02 L09 10 Assignment 12
+ZCZC W02 L09 10 Assignment 13
+ZCZC W02 L84 60 Sleep
+ZCZC W02 L73 90 Gaming
