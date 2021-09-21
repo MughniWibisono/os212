@@ -66,3 +66,5 @@ ZCZC W02 L73 90 Gaming
 ZCZC W03 L22 05 Quiz 1 Week 02
 ZCZC W03 L22 15 Quiz 2 Week 02
 ZCZC W03 L02 100 Zoom meeting W03
+ZCZC W03 L02 100 Zoom meeting PBD
+ZCZC W03 L70 60 Study for Discrete Math 2 quiz
