@@ -68,3 +68,7 @@ ZCZC W03 L22 15 Quiz 2 Week 02
 ZCZC W03 L02 100 Zoom meeting W03
 ZCZC W03 L02 100 Zoom meeting PBD
 ZCZC W03 L70 60 Study for Discrete Math 2 quiz
+ZCZC W03 L11 60 Assignment 1: Read chapter 13
+ZCZC W03 L11 60 Assignemnt 1: Read chapter 14
+ZCZC W03 L84 120 Relax
+ZCZC W03 L11 60 Assignment 1: Read chapter 15
