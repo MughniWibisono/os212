@@ -4,6 +4,7 @@ permalink: /LINKS/
 
 # OPERATING SYSTEM LEARNING LINKS  <br>
 ***WEEK 01***<br>
+
 1. **[Operating System](https://www.guru99.com/operating-system-tutorial.html)**<br>
    > You can find anything in here, from the history of operating system to the advantages of operating system. Basically it's like wikipedia!<br>
 2. **[Understanding Operating System](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)**<br>
@@ -12,6 +13,7 @@ permalink: /LINKS/
    > It explains every single bit of what operating system is the function, why we should use operating system, the examples and so on.<br>
 
 ***WEEK 02***<br>
+
 4. **[30 Bash Script](https://linuxhint.com/30_bash_script_examples/#:~:text=Bash%20scripts%20can%20be%20used,important%20for%20every%20Linux%20user.)**<br>
    > This website is enough to give examples of bash scripts
 5. **[Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)**<br>
