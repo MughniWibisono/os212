@@ -9,7 +9,7 @@ permalink: /LINKS/
 2. **[Understanding Operating System](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)**<br>
    > This is my first go-to page when learning operating system for the first time. It is a really friendly webstie for a first timer learning operating system.<br>
 3. **[What is an operating system?](https://whatis.techtarget.com/definition/operating-system-OS)**<br>
-   > It explains every single bit of what operating system is the function, why we should use operating system, the examples and so on.<be>
+   > It explains every single bit of what operating system is the function, why we should use operating system, the examples and so on.<br>
 
 ***WEEK 02***<br>
 4. **[30 Bash Script](https://linuxhint.com/30_bash_script_examples/#:~:text=Bash%20scripts%20can%20be%20used,important%20for%20every%20Linux%20user.)**<br>
