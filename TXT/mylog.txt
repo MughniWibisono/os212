@@ -61,6 +61,7 @@ ZCZC W02 L20 10 Assignment 10
 ZCZC W02 L09 10 Assignment 11
 ZCZC W02 L09 10 Assignment 12
 ZCZC W02 L09 10 Assignment 13
+ZCZC W02 L12 120 Assignment 2
 ZCZC W02 L84 60 Sleep
 ZCZC W02 L73 90 Gaming
 ZCZC W03 L22 05 Quiz 1 Week 02
@@ -78,6 +79,7 @@ ZCZC W03 L16 30 Assignment 6
 ZCZC W03 L17 10 Assignment 7
 ZCZC W03 L18 05 Assignment 8
 ZCZC W03 L19 05 Assignment 9
+ZCZC W03 L12 120 Assignment 2
 ZCZC W03 L70 60 StatProb Assignment
 ZCZC W03 L84 120 Relax
 ZCZC W03 L73 50 Gaming: DOTA 2
