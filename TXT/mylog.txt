@@ -77,3 +77,7 @@ ZCZC W03 L15 20 Assignment 5
 ZCZC W03 L16 30 Assignment 6
 ZCZC W03 L17 10 Assignment 7
 ZCZC W03 L18 05 Assignment 8
+ZCZC W03 L19 05 Assignment 9
+ZCZC W03 L70 60 StatProb Assignment
+ZCZC W03 L84 120 Relax
+ZCZC W03 L73 50 Gaming: DOTA 2
