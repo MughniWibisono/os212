@@ -15,7 +15,7 @@ permalink: /LINKS/
 ***WEEK 02***<br>
 
 4. **[30 Bash Script](https://linuxhint.com/30_bash_script_examples/#:~:text=Bash%20scripts%20can%20be%20used,important%20for%20every%20Linux%20user.)**<br>
-   > This website is enough to give examples of bash scripts
+   > This website will help you to get the basic idea on bash programming. Most of the common operations of bash scripting are explained with very simple examples here.
 5. **[Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)**<br>
    > This is another bash scripting tutorial
 7. **[C Language Beginner's Handbook](https://www.freecodecamp.org/news/the-c-beginners-handbook/)**<br>
