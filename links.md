@@ -28,6 +28,6 @@ permalink: /LINKS/
 9. **[Linux Command 2.0](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)**<br>
    > This website gives you more tutorial for beginners, from the history, openting the terminal, creating folders, and many more. Just check it out!
 10. **[Linux Cheatsheet](https://cheatography.com/adam-hendry/cheat-sheets/linux-fhs/)**<br>
-   > The Linux File Hierarchy Standard (FHS). This describes what the folders are for on your root directory and what is typically stored there.
+       > The Linux File Hierarchy Standard (FHS). This describes what the folders are for on your root directory and what is typically stored there.
 
 ***WEEK 04***<br>
