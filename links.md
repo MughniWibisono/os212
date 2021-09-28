@@ -31,3 +31,5 @@ permalink: /LINKS/
        > The Linux File Hierarchy Standard (FHS). This describes what the folders are for on your root directory and what is typically stored there.
 
 ***WEEK 04***<br>
+11. **[Difference between SH & Bash](https://www.baeldung.com/linux/sh-vs-bash)**<br>
+   > In this article we went through the differences between Bash and sh alongside their features and their conformation with POSIX.
