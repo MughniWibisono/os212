@@ -34,3 +34,5 @@ permalink: /LINKS/
 
 11. **[Difference between SH & Bash](https://www.baeldung.com/linux/sh-vs-bash)**<br>
    > In this article we went through the differences between Bash and sh alongside their features and their conformation with POSIX.
+12. **[Logical and Physical Address in OS](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system)**<br>
+   > This website tells you about the differences between logical and physical address.
