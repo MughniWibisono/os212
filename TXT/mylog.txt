@@ -97,3 +97,4 @@ ZCZC W04 L12 120 Assignment 2
 ZCZC W04 L19 05 Assignment 9
 ZCZC W05 L22 15 Quiz 2 Week 04
 ZCZC W05 L22 05 Quiz 1 Week 04
+ZCZC W05 L02 100 Zoom meeting W05
