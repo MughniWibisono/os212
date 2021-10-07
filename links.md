@@ -33,15 +33,15 @@ permalink: /LINKS/
 ***WEEK 04***<br>
 
 11. **[Difference between SH & Bash](https://www.baeldung.com/linux/sh-vs-bash)**<br>
-   > In this article we went through the differences between Bash and sh alongside their features and their conformation with POSIX.
+    > In this article we went through the differences between Bash and sh alongside their features and their conformation with POSIX.
 12. **[Logical and Physical Address in OS](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system)**<br>
-   > This website tells you about the differences between logical and physical address.
+    > This website tells you about the differences between logical and physical address.
 
 ***WEEK 05***<br>
 
 13. **[Difference between Physical and Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)**<br>
-   > This article explains to you about the main point about the difference between Physical and Virtual Memory
+    > This article explains to you about the main point about the difference between Physical and Virtual Memory
 14. **[Intro to Physical memory](https://www.sciencedirect.com/topics/computer-science/physical-memory)**<br>
-   > This article explain alot about Physical memory from introduction to memory analysis
+    > This article explain alot about Physical memory from introduction to memory analysis
 15. **[Intro to Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)**<br>
-   > This article explain just what you need to know (the basics) of virtual memory
+    > This article explain just what you need to know (the basics) of virtual memory
