@@ -108,3 +108,18 @@ ZCZC W05 L84 90 Relax
 ZCZC W06 L02 100 Zoom meeting W06
 ZCZC W06 L84 60 Sleep
 ZCZC W06 L70 20 Study for PBD Demo Lab
+ZCZC W06 L11 90 Assignment 1: Chapter 3
+ZCZC W06 L84 30 Relax
+ZCZC W06 L11 90 Assignment 1: Chapter 4
+ZCZC W06 L12 90 Assignment 2
+ZCZC W06 L13 90 Assignment 3
+ZCZC W06 L14 60 Assignment 4
+ZCZC W06 L15 60 Assignment 5
+ZCZC W06 L16 45 Assignment 6
+ZCZC W06 L17 60 Assignment 7
+ZCZC W06 L18 30 Assignment 8
+ZCZC W06 L19 30 Assignment 9
+ZCZC W06 L84 120 Sleep
+ZCZC W06 L73 90 Gaming
+ZCZC W06 L86 30 Laundry, dishes
+ZCZC W06 L64 60 Helping friend cannot push git
