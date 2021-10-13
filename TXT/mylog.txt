@@ -105,3 +105,6 @@ ZCZC W05 L16 30 Assignment 6
 ZCZC W05 L17 30 Assginment 7
 ZCZC W05 L18 30 Assignment 8
 ZCZC W05 L84 90 Relax
+ZCZC W06 L02 100 Zoom meeting W06
+ZCZC W06 L84 60 Sleep
+ZCZC W06 L70 20 Study for PBD Demo Lab
