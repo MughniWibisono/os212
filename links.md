@@ -45,3 +45,5 @@ permalink: /LINKS/
     > This article explain alot about Physical memory from introduction to memory analysis
 15. **[Intro to Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)**<br>
     > This article explain just what you need to know (the basics) of virtual memory
+
+***WEEK 06***<br>
