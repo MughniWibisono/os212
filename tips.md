@@ -12,7 +12,7 @@ permalink: /TIPS/
 
 ***WEEK 06***<br>
 3. **Dont be afraid to ask**<br>
-   > If you're really stuck at something, don't be afraid or shy to ask someone, asking someoen doesn't mean that you don't understand the assignment, it's just mean that you need help, and needing help is normal.
+   > If you're really stuck at something, don't be afraid or shy to ask someone, asking someone doesn't mean that you don't understand the assignment, it's just mean that you need help, and needing help is normal.
  
 4. **Read more**<br>
    > Don't be lazy to read slides, slides can be really usefull
