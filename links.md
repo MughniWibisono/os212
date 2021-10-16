@@ -47,3 +47,7 @@ permalink: /LINKS/
     > This article explain just what you need to know (the basics) of virtual memory
 
 ***WEEK 06***<br>
+16. **[What is page replacement?](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)**<br>
+    > This article will introduce you to the concept of page replacement, which is used in memory management. You will understand the definition, need and various algorithms     related to page replacement.
+17. **[Introduction to page replacement](https://www.youtube.com/watch?v=6VOYx3-JOnM&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-&index=26&ab_channel=Education4u)**<br>
+    > This video made by Education 4u will give you an introduction to page replacement clearly!
