@@ -123,3 +123,4 @@ ZCZC W06 L84 120 Sleep
 ZCZC W06 L73 90 Gaming
 ZCZC W06 L86 30 Laundry, dishes
 ZCZC W06 L64 60 Helping friend cannot push git
+ZCZC W07 L08 10 Asking asdos about grades
