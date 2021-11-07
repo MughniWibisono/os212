@@ -124,3 +124,13 @@ ZCZC W06 L73 90 Gaming
 ZCZC W06 L86 30 Laundry, dishes
 ZCZC W06 L64 60 Helping friend cannot push git
 ZCZC W07 L08 10 Asking asdos about grades
+ZCZC W07 L11 120 Assignment 1: Chapter 6 & 7
+ZCZC W07 L84 30 Relax
+ZCZC W07 L11 60 Assignment 1: Chapter 8
+ZCZC W07 L12 60 Assignment 2
+ZCZC W07 L13 60 Assignment 3
+ZCZC W07 L14 30 Assignment 4
+ZCZC W07 L15 20 Assignment 5
+ZCZC W07 L16 20 Assignment 6
+ZCZC W07 L17 20 Assignment 7
+ZCZC W07 L17 20 Assignment 8
