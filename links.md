@@ -55,3 +55,11 @@ permalink: /LINKS/
     > This article explains what the definition and example of the LRU page replacement algorithm
 19. **[Page replacement Optimal](https://www.geeksforgeeks.org/optimal-page-replacement-algorithm)**<br>
     > This article explains what the definition and example of the Optimal page replacement algorithm
+
+***WEEK 08***<br>
+20. **[Linux From Scratch](https://www.linuxfromscratch.org/)**<br>
+    > This website tells you all you need to know about linux from scratch
+21. **[Multiprocessor Scheduling](https://www.includehelp.com/operating-systems/multiprocessor-scheduling-in-operating-system.aspx)**<br>
+    > In this article, we will learn about the multiprocessor scheduling and also discuss about the different types of multiprocessor operating system
+22. **[Multiprocessor Scheduling Tutorial](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)**<br>
+    > This article bassicly give you the tutorial for multiprocessor scheduling
