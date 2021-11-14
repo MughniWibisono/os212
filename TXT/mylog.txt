@@ -135,3 +135,14 @@ ZCZC W07 L16 20 Assignment 6
 ZCZC W07 L17 20 Assignment 7
 ZCZC W07 L18 20 Assignment 8
 ZCZC W07 L19 20 Assignment 9
+ZCZC W08 100 L11 Assignment 1
+ZCZC W08 100 L12 Assignment 2
+ZCZC W08 100 L13 Assignment 3
+ZCZC W08 100 L14 Assignment 4
+ZCZC W08 60 L08 Asking Asdos about error
+ZCZC W08 100 L15 Assignment 5
+ZCZC W08 100 L16 Assignment 6
+ZCZC W08 100 L17 Assignment 7
+ZCZC W08 100 L18 Assignment 8
+ZCZC W08 100 L19 Assignment 9
+
