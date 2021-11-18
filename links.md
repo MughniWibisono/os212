@@ -63,3 +63,10 @@ permalink: /LINKS/
     > In this article, we will learn about the multiprocessor scheduling and also discuss about the different types of multiprocessor operating system
 22. **[Multiprocessor Scheduling Tutorial](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)**<br>
     > This article bassicly give you the tutorial for multiprocessor scheduling
+
+***WEEK 09***<br>
+23. **[OS Scheduling Alogirthms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)**<br>
+    > This website explain everyrhing about scheduling algorithm from FCFS to Multiple-Queues
+24. **[Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)**<br>
+    > Based on the website, a multiprocessor is a system with several processors. Well with the presence of multiple processors it becomes complex to design
+      a scheduling algorithm
