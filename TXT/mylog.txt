@@ -36,32 +36,32 @@ ZCZC W01 L73 120 Gaming: DOTA 2 and Valorant
 ZCZC W01 L70 60 Studying for other course
 ZCZC W01 L16 60 Assignment #6: Making my page better again
 ZCZC W01 L84 120 Sleep
-ZCZC W02 L05 05 WEEK 1 Quiz 1
-ZCZC W02 L05 05 WEEK 1 Quiz 2
-ZCZC W02 L02 100 Zoom meeting W02
-ZCZC W02 L73 90 Gaming: DOTA 2 and Valorant
-ZCZC W02 L70 60 Studying for other course: Calculus 2
-ZCZC W02 L86 20 House chores: Laundry, Dishes
-ZCZC W02 L84 30 Relax
-ZCZC W02 L70 120 Studying for other course
-ZCZC W02 L73 90 Gaming: DOTA 2 and Valorant
-ZCZC W02 L70 10 Pre-test Startprob
-ZCZC W02 L84 120 Sleep
-ZCZC W02 L11 90 Assignment 1
-ZCZC W02 L13 120 Assignment 3: First video
-ZCZC W02 L84 60 Relax
-ZCZC W02 L13 120 Assignment 3: Second video
-ZCZC W02 L14 10 Assignment 4
-ZCZC W02 L15 10 Assignment 5
-ZCZC W02 L16 10 Assignment 6
-ZCZC W02 L17 10 Assignment 7
-ZCZC W02 L18 10 Assignment 8
-ZCZC W02 L19 10 Assignment 9
-ZCZC W02 L20 10 Assignment 10
-ZCZC W02 L09 10 Assignment 11
-ZCZC W02 L09 10 Assignment 12
-ZCZC W02 L09 10 Assignment 13
-ZCZC W02 L12 120 Assignment 2
+ZCZC W02 05 L05 WEEK 1 Quiz 1
+ZCZC W02 05 L05 WEEK 1 Quiz 2
+ZCZC W02 100 L02 Zoom meeting W02
+ZCZC W02 90 L73 Gaming: DOTA 2 and Valorant
+ZCZC W02 60 L73 Studying for other course: Calculus 2
+ZCZC W02 20 L86 House chores: Laundry, Dishes
+ZCZC W02 30 L84 Relax
+ZCZC W02 120 L70 Studying for other course
+ZCZC W02 90 L73 Gaming: DOTA 2 and Valorant
+ZCZC W02 10 L70 Pre-test Startprob
+ZCZC W02 120 L84 Sleep
+ZCZC W02 90 L11 Assignment 1
+ZCZC W02 120 L13 Assignment 3: First video
+ZCZC W02 60 L84 Relax
+ZCZC W02 120 L13 Assignment 3: Second video
+ZCZC W02 100 L14 Assignment 4
+ZCZC W02 100 L15 Assignment 5
+ZCZC W02 100 L16 Assignment 6
+ZCZC W02 100 L17 Assignment 7
+ZCZC W02 100 L18 Assignment 8
+ZCZC W02 100 L19 Assignment 9
+ZCZC W02 100 L09 Assignment 10
+ZCZC W02 100 L09 Assignment 11
+ZCZC W02 100 L09 Assignment 12
+ZCZC W02 100 L09 Assignment 13
+ZCZC W02 100 L09 Assignment 2
 ZCZC W02 L84 60 Sleep
 ZCZC W02 L73 90 Gaming
 ZCZC W03 L22 05 Quiz 1 Week 02
@@ -69,17 +69,17 @@ ZCZC W03 L22 15 Quiz 2 Week 02
 ZCZC W03 L02 100 Zoom meeting W03
 ZCZC W03 L02 100 Zoom meeting PBD
 ZCZC W03 L70 60 Study for Discrete Math 2 quiz
-ZCZC W03 L11 60 Assignment 1: Read chapter 13
-ZCZC W03 L11 60 Assignemnt 1: Read chapter 14
+ZCZC W03 100 L11 Assignment 1: Read chapter 13
+ZCZC W03 100 L11 Assignemnt 1: Read chapter 14
 ZCZC W03 L84 120 Relax
-ZCZC W03 L11 60 Assignment 1: Read chapter 15
-ZCZC W03 L14 05 Assignment 4
-ZCZC W03 L15 20 Assignment 5
-ZCZC W03 L16 30 Assignment 6
-ZCZC W03 L17 10 Assignment 7
-ZCZC W03 L18 05 Assignment 8
-ZCZC W03 L19 05 Assignment 9
-ZCZC W03 L12 120 Assignment 2
+ZCZC W03 100 L11 Assignment 1: Read chapter 15
+ZCZC W03 100 L14 Assignment 4
+ZCZC W03 100 L15 Assignment 5
+ZCZC W03 100 L16 Assignment 6
+ZCZC W03 100 L17 Assignment 7
+ZCZC W03 100 L18 Assignment 8
+ZCZC W03 100 L19  Assignment 9
+ZCZC W03 100 L12 Assignment 2
 ZCZC W03 L70 60 StatProb Assignment
 ZCZC W03 L84 120 Relax
 ZCZC W03 L73 50 Gaming: DOTA 2
@@ -123,18 +123,18 @@ ZCZC W06 L84 120 Sleep
 ZCZC W06 L73 90 Gaming
 ZCZC W06 L86 30 Laundry, dishes
 ZCZC W06 L64 60 Helping friend cannot push git
-ZCZC W07 L08 10 Asking asdos about grades
-ZCZC W07 L11 120 Assignment 1: Chapter 6 & 7
-ZCZC W07 L84 30 Relax
-ZCZC W07 L11 60 Assignment 1: Chapter 8
-ZCZC W07 L12 60 Assignment 2
-ZCZC W07 L13 60 Assignment 3
-ZCZC W07 L14 30 Assignment 4
-ZCZC W07 L15 20 Assignment 5
-ZCZC W07 L16 20 Assignment 6
-ZCZC W07 L17 20 Assignment 7
-ZCZC W07 L18 20 Assignment 8
-ZCZC W07 L19 20 Assignment 9
+ZCZC W07 30 L08 Asking asdos about grades
+ZCZC W07 100 L11 Assignment 1: Chapter 6 & 7
+ZCZC W07 120 L84 Relax
+ZCZC W07 100 L11 Assignment 1: Chapter 8
+ZCZC W07 100 L12 Assignment 2
+ZCZC W07 100 L13 Assignment 3
+ZCZC W07 100 L14 Assignment 4
+ZCZC W07 100 L15 Assignment 5
+ZCZC W07 100 L16 Assignment 6
+ZCZC W07 100 L17 Assignment 7
+ZCZC W07 100 L18 Assignment 8
+ZCZC W07 100 L19 Assignment 9
 ZCZC W08 100 L11 Assignment 1
 ZCZC W08 100 L12 Assignment 2
 ZCZC W08 100 L13 Assignment 3
@@ -146,3 +146,13 @@ ZCZC W08 100 L17 Assignment 7
 ZCZC W08 100 L18 Assignment 8
 ZCZC W08 100 L19 Assignment 9
 ZCZC W08 120 L84 Relax
+ZCZC W09 100 L11 Assignment 1
+ZCZC W09 100 L12 Assignment 2
+ZCZC W09 100 L13 Assignment 3
+ZCZC W09 100 L14 Assignment 4
+ZCZC W09 100 L15 Assignment 5
+ZCZC W09 100 L16 Assignment 6
+ZCZC W09 100 L17 Assignment 7
+ZCZC W09 100 L18 Assignment 8
+ZCZC W09 100 L19 Assignment 9
+ZCZC W09 120 L84 Relax    
