@@ -47,6 +47,7 @@ permalink: /LINKS/
     > This article explain just what you need to know (the basics) of virtual memory
 
 ***WEEK 06***<br>
+
 16. **[What is page replacement?](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)**<br>
     > This article will introduce you to the concept of page replacement, which is used in memory management. You will understand the definition, need and various algorithms     related to page replacement.
 17. **[Page replacement FIFO](https://www.baeldung.com/cs/fifo-page-replacement)**<br>
@@ -57,6 +58,7 @@ permalink: /LINKS/
     > This article explains what the definition and example of the Optimal page replacement algorithm
 
 ***WEEK 08***<br>
+
 20. **[Linux From Scratch](https://www.linuxfromscratch.org/)**<br>
     > This website tells you all you need to know about linux from scratch
 21. **[Multiprocessor Scheduling](https://www.includehelp.com/operating-systems/multiprocessor-scheduling-in-operating-system.aspx)**<br>
@@ -65,6 +67,7 @@ permalink: /LINKS/
     > This article bassicly give you the tutorial for multiprocessor scheduling
 
 ***WEEK 09***<br>
+
 23. **[OS Scheduling Alogirthms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)**<br>
     > This website explain everyrhing about scheduling algorithm from FCFS to Multiple-Queues
 24. **[Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)**<br>
