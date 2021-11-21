@@ -18,9 +18,11 @@ permalink: /TIPS/
    > If you're really stuck at something, don't be afraid or shy to ask someone, asking someone doesn't mean that you don't understand the assignment, it's just mean that you need      help, and needing help is normal.
  
 4. **Read more**<br>
-   > Don't be lazy to read slides, slides can be really usefull
+   > Don't be lazy to read slides, slides can be really usefull.
 
 ***WEEK 09***<br>
 
-5. **Make zoom meeting interesting**<br>
-6. **Find your way of studying**<br>
+5. **Try something eventhough it's not an assignment**<br>
+   > Try to code something new for a better experience, don't just code when you have an assignment.
+7. **Find your way of studying**<br>
+   > Find your best way of learning, like you must find yourself in a good condition and a good mood to learn something new.
